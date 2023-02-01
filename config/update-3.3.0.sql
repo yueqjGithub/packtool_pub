@@ -1,0 +1,1 @@
+ALTER TABLE T_Record_Plugins ADD plugins_version VARCHAR(20) NULL COMMENT '插件版本';

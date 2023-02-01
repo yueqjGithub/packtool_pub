@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><package xmlns="http://apple.com/itunes/importer" version="software5.10">
+    <software_assets app_platform="ios" apple_id="appID1">
+        <asset type="bundle">
+            <data_file>
+                <size>5555</size>
+                <file_name>test.ipa</file_name>
+                <checksum type="md5">sdfsfasdfsad</checksum>
+            </data_file>
+        </asset>
+    </software_assets>
+</package>

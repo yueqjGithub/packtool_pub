@@ -1,0 +1,1 @@
+ALTER TABLE T_History_Record ADD version_code INT NULL DEFAULT -1 COMMENT '该记录分包时刻应用versioncode';
